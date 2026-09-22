@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="250" viewBox="0 0 860 250" role="img" aria-label="Actividad en GitHub">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .title { font-size: 16px; font-weight: 700; fill: #e6edf3; }
+      .label { font-size: 12px; fill: #8b949e; }
+      .value { font-size: 24px; font-weight: 700; fill: #e6edf3; }
+      .small { font-size: 12px; fill: #e6edf3; }
+      .fade { animation: fade .6s ease both; }
+      @keyframes fade { from { opacity: .2; } to { opacity: 1; } }
+      @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+      .bar { transform-box: fill-box; transform-origin: bottom; animation: grow .8s ease-out both; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="859" height="249" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="859" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="24" y="36" class="title">Actividad en GitHub</text>
+  <g class="fade" style="animation-delay:0.00s"><text x="24" y="84" class="value">412</text><text x="24" y="104" class="label">Contribuciones (12 meses)</text></g>
+  <g class="fade" style="animation-delay:0.12s"><text x="227" y="84" class="value">1 d</text><text x="227" y="104" class="label">Racha actual</text></g>
+  <g class="fade" style="animation-delay:0.24s"><text x="430" y="84" class="value">5 d</text><text x="430" y="104" class="label">Racha más larga</text></g>
+  <g class="fade" style="animation-delay:0.36s"><text x="633" y="84" class="value">11</text><text x="633" y="104" class="label">Repos públicos</text></g>
+  <rect class="bar" style="animation-delay:0.000s" x="25.5" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.012s" x="41.1" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.024s" x="56.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.036s" x="72.3" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.048s" x="88.0" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.060s" x="103.6" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.072s" x="119.2" y="210.0" width="12.6" height="6.0" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.084s" x="134.8" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.096s" x="150.4" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.108s" x="166.0" y="213.4" width="12.6" height="2.6" rx="2" fill="url(#accent)" opacity="0.37"/>
+  <rect class="bar" style="animation-delay:0.120s" x="181.7" y="213.4" width="12.6" height="2.6" rx="2" fill="url(#accent)" opacity="0.37"/>
+  <rect class="bar" style="animation-delay:0.132s" x="197.3" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.144s" x="212.9" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.156s" x="228.5" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.168s" x="244.1" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.180s" x="259.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.192s" x="275.3" y="206.5" width="12.6" height="9.5" rx="2" fill="url(#accent)" opacity="0.42"/>
+  <rect class="bar" style="animation-delay:0.204s" x="291.0" y="210.0" width="12.6" height="6.0" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.216s" x="306.6" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.228s" x="322.2" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.240s" x="337.8" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.252s" x="353.4" y="211.7" width="12.6" height="4.3" rx="2" fill="url(#accent)" opacity="0.38"/>
+  <rect class="bar" style="animation-delay:0.264s" x="369.0" y="211.7" width="12.6" height="4.3" rx="2" fill="url(#accent)" opacity="0.38"/>
+  <rect class="bar" style="animation-delay:0.276s" x="384.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.288s" x="400.3" y="212.6" width="12.6" height="3.4" rx="2" fill="url(#accent)" opacity="0.38"/>
+  <rect class="bar" style="animation-delay:0.300s" x="415.9" y="208.3" width="12.6" height="7.7" rx="2" fill="url(#accent)" opacity="0.41"/>
+  <rect class="bar" style="animation-delay:0.312s" x="431.5" y="210.0" width="12.6" height="6.0" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.324s" x="447.1" y="210.8" width="12.6" height="5.2" rx="2" fill="url(#accent)" opacity="0.39"/>
+  <rect class="bar" style="animation-delay:0.336s" x="462.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.348s" x="478.3" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.360s" x="494.0" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.372s" x="509.6" y="210.8" width="12.6" height="5.2" rx="2" fill="url(#accent)" opacity="0.39"/>
+  <rect class="bar" style="animation-delay:0.384s" x="525.2" y="210.8" width="12.6" height="5.2" rx="2" fill="url(#accent)" opacity="0.39"/>
+  <rect class="bar" style="animation-delay:0.396s" x="540.8" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.408s" x="556.4" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.420s" x="572.0" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.432s" x="587.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.444s" x="603.3" y="213.4" width="12.6" height="2.6" rx="2" fill="url(#accent)" opacity="0.37"/>
+  <rect class="bar" style="animation-delay:0.456s" x="618.9" y="209.1" width="12.6" height="6.9" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.468s" x="634.5" y="213.4" width="12.6" height="2.6" rx="2" fill="url(#accent)" opacity="0.37"/>
+  <rect class="bar" style="animation-delay:0.480s" x="650.1" y="186.8" width="12.6" height="29.2" rx="2" fill="url(#accent)" opacity="0.57"/>
+  <rect class="bar" style="animation-delay:0.492s" x="665.7" y="185.9" width="12.6" height="30.1" rx="2" fill="url(#accent)" opacity="0.58"/>
+  <rect class="bar" style="animation-delay:0.504s" x="681.3" y="179.9" width="12.6" height="36.1" rx="2" fill="url(#accent)" opacity="0.62"/>
+  <rect class="bar" style="animation-delay:0.516s" x="697.0" y="179.9" width="12.6" height="36.1" rx="2" fill="url(#accent)" opacity="0.62"/>
+  <rect class="bar" style="animation-delay:0.528s" x="712.6" y="209.1" width="12.6" height="6.9" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.540s" x="728.2" y="210.8" width="12.6" height="5.2" rx="2" fill="url(#accent)" opacity="0.39"/>
+  <rect class="bar" style="animation-delay:0.552s" x="743.8" y="197.9" width="12.6" height="18.1" rx="2" fill="url(#accent)" opacity="0.49"/>
+  <rect class="bar" style="animation-delay:0.564s" x="759.4" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
+  <rect class="bar" style="animation-delay:0.576s" x="775.0" y="130.0" width="12.6" height="86.0" rx="2" fill="url(#accent)" opacity="1.00"/>
+  <rect class="bar" style="animation-delay:0.588s" x="790.7" y="206.5" width="12.6" height="9.5" rx="2" fill="url(#accent)" opacity="0.42"/>
+  <rect class="bar" style="animation-delay:0.600s" x="806.3" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
+  <rect class="bar" style="animation-delay:0.612s" x="821.9" y="211.7" width="12.6" height="4.3" rx="2" fill="url(#accent)" opacity="0.38"/>
+  <text x="24" y="236" class="label">Contribuciones por semana · últimos 12 meses</text>
+  <text x="836" y="236" class="label" text-anchor="end">Actualizado 2026-09-22</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="150" viewBox="0 0 860 150" role="img" aria-label="Lenguajes más usados en repos públicos">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; }
+      .title { font-size: 16px; font-weight: 700; fill: #e6edf3; }
+      .label { font-size: 12px; fill: #8b949e; }
+      .value { font-size: 24px; font-weight: 700; fill: #e6edf3; }
+      .small { font-size: 12px; fill: #e6edf3; }
+      .fade { animation: fade .6s ease both; }
+      @keyframes fade { from { opacity: .2; } to { opacity: 1; } }
+      @keyframes grow { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+      .bar { transform-box: fill-box; transform-origin: bottom; animation: grow .8s ease-out both; }
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="859" height="149" rx="12" fill="#0d1117" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="859" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="24" y="36" class="title">Lenguajes más usados en repos públicos</text>
+  <clipPath id="track"><rect x="24" y="56" width="812" height="12" rx="6"/></clipPath>
+  <g clip-path="url(#track)">
+    <rect x="24.0" y="56" width="238.1" height="12" fill="#4F5D95"/>
+    <rect x="262.1" y="56" width="204.9" height="12" fill="#00B4AB"/>
+    <rect x="467.0" y="56" width="136.4" height="12" fill="#f7523f"/>
+    <rect x="603.4" y="56" width="104.2" height="12" fill="#3572A5"/>
+    <rect x="707.6" y="56" width="78.6" height="12" fill="#f1e05a"/>
+    <rect x="786.2" y="56" width="49.8" height="12" fill="#3178c6"/>
+  </g>
+  <g class="fade" style="animation-delay:0.0s"><circle cx="30" cy="94" r="6" fill="#4F5D95"/><text x="44" y="98" class="small">PHP</text><text x="74" y="98" class="label">29.3%</text></g>
+  <g class="fade" style="animation-delay:0.1s"><circle cx="301" cy="94" r="6" fill="#00B4AB"/><text x="315" y="98" class="small">Dart</text><text x="353" y="98" class="label">25.2%</text></g>
+  <g class="fade" style="animation-delay:0.2s"><circle cx="571" cy="94" r="6" fill="#f7523f"/><text x="585" y="98" class="small">Blade</text><text x="631" y="98" class="label">16.8%</text></g>
+  <g class="fade" style="animation-delay:0.3s"><circle cx="30" cy="120" r="6" fill="#3572A5"/><text x="44" y="124" class="small">Python</text><text x="97" y="124" class="label">12.8%</text></g>
+  <g class="fade" style="animation-delay:0.4s"><circle cx="301" cy="120" r="6" fill="#f1e05a"/><text x="315" y="124" class="small">JavaScript</text><text x="398" y="124" class="label">9.7%</text></g>
+  <g class="fade" style="animation-delay:0.5s"><circle cx="571" cy="120" r="6" fill="#3178c6"/><text x="585" y="124" class="small">TypeScript</text><text x="668" y="124" class="label">6.1%</text></g>
+</svg>
