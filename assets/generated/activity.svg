@@ -19,7 +19,7 @@
   <rect x="0.5" y="0.5" width="859" height="3" rx="1.5" fill="url(#accent)"/>
   <text x="24" y="36" class="title">Actividad en GitHub</text>
   <g class="fade" style="animation-delay:0.00s"><text x="24" y="84" class="value">412</text><text x="24" y="104" class="label">Contribuciones (12 meses)</text></g>
-  <g class="fade" style="animation-delay:0.12s"><text x="227" y="84" class="value">1 d</text><text x="227" y="104" class="label">Racha actual</text></g>
+  <g class="fade" style="animation-delay:0.12s"><text x="227" y="84" class="value">2 d</text><text x="227" y="104" class="label">Racha actual</text></g>
   <g class="fade" style="animation-delay:0.24s"><text x="430" y="84" class="value">5 d</text><text x="430" y="104" class="label">Racha más larga</text></g>
   <g class="fade" style="animation-delay:0.36s"><text x="633" y="84" class="value">7</text><text x="633" y="104" class="label">Repos públicos</text></g>
   <rect class="bar" style="animation-delay:0.000s" x="25.5" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
@@ -47,8 +47,8 @@
   <rect class="bar" style="animation-delay:0.264s" x="369.0" y="211.7" width="12.6" height="4.3" rx="2" fill="url(#accent)" opacity="0.38"/>
   <rect class="bar" style="animation-delay:0.276s" x="384.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
   <rect class="bar" style="animation-delay:0.288s" x="400.3" y="212.6" width="12.6" height="3.4" rx="2" fill="url(#accent)" opacity="0.38"/>
-  <rect class="bar" style="animation-delay:0.300s" x="415.9" y="208.3" width="12.6" height="7.7" rx="2" fill="url(#accent)" opacity="0.41"/>
-  <rect class="bar" style="animation-delay:0.312s" x="431.5" y="210.0" width="12.6" height="6.0" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.300s" x="415.9" y="209.1" width="12.6" height="6.9" rx="2" fill="url(#accent)" opacity="0.40"/>
+  <rect class="bar" style="animation-delay:0.312s" x="431.5" y="209.1" width="12.6" height="6.9" rx="2" fill="url(#accent)" opacity="0.40"/>
   <rect class="bar" style="animation-delay:0.324s" x="447.1" y="210.8" width="12.6" height="5.2" rx="2" fill="url(#accent)" opacity="0.39"/>
   <rect class="bar" style="animation-delay:0.336s" x="462.7" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.36"/>
   <rect class="bar" style="animation-delay:0.348s" x="478.3" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
