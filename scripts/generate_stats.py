@@ -42,6 +42,7 @@ query($login: String!) {
     repositories(ownerAffiliations: OWNER, privacy: PUBLIC, isFork: false, first: 100) {
       totalCount
       nodes {
+        name
         stargazerCount
         languages(first: 10, orderBy: {field: SIZE, direction: DESC}) {
           edges { size node { name color } }
@@ -153,6 +154,8 @@ def activity_svg(user):
 def languages_svg(user, top=6):
     totals, colors = {}, {}
     for repo in user["repositories"]["nodes"]:
+        if repo["name"].lower() == USER.lower():  # el repo del perfil no cuenta
+            continue
         for edge in repo["languages"]["edges"]:
             name = edge["node"]["name"]
             totals[name] = totals.get(name, 0) + edge["size"]

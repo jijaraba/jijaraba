@@ -12,7 +12,7 @@ Ingeniero de software enfocado en **sistemas con IA**, **APIs backend** y **apps
 
 ---
 
-## 🧰 Lenguajes y herramientas
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/icons/stack-onlight.svg"><img src="assets/icons/stack.svg" width="28" align="center" alt=""></picture>&nbsp;Lenguajes y herramientas
 
 <table>
   <tr>
@@ -40,9 +40,9 @@ Ingeniero de software enfocado en **sistemas con IA**, **APIs backend** y **apps
 
 ---
 
-## 🗂️ Proyectos por tecnología
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/icons/projects-onlight.svg"><img src="assets/icons/projects.svg" width="28" align="center" alt=""></picture>&nbsp;Proyectos por tecnología
 
-### <img src="assets/icons/ai.svg" width="36" align="center" alt=""> &nbsp;Inteligencia Artificial
+### <picture><source media="(prefers-color-scheme: light)" srcset="assets/icons/ai-onlight.svg"><img src="assets/icons/ai.svg" width="24" align="center" alt=""></picture>&nbsp;Inteligencia Artificial
 
 <table>
   <tr>
@@ -73,65 +73,9 @@ Ingeniero de software enfocado en **sistemas con IA**, **APIs backend** y **apps
   </tr>
 </table>
 
-### <img src="assets/icons/backend.svg" width="36" align="center" alt=""> &nbsp;Backend y APIs
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jijaraba/sd-tasks-back"><b>sd-tasks-back</b></a>
-      <br>
-      API REST de gestión de tareas con autenticación JWT, filtros, estadísticas y PostgreSQL (Sequelize).
-      <br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-    </td>
-  </tr>
-</table>
-
-### <img src="assets/icons/mobile.svg" width="36" align="center" alt=""> &nbsp;Móvil
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jijaraba/xpertgroup-cats"><b>xpertgroup-cats</b></a>
-      <br>
-      App Flutter para explorar razas de gatos con TheCatAPI: carrusel, votaciones y animaciones Lottie.
-      <br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jijaraba/Double_v_partners_flutter"><b>Double_v_partners_flutter</b></a>
-      <br>
-      App Flutter con modelos y estados generados con <code>build_runner</code>.
-      <br><br>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-    </td>
-  </tr>
-</table>
-
-### <img src="assets/icons/frontend.svg" width="36" align="center" alt=""> &nbsp;Frontend
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jijaraba/squadmakers-vue"><b>squadmakers-vue</b></a>
-      <br>
-      SPA de personajes de Rick and Morty con Vue 3, composables y SCSS responsive.
-      <br><br>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
-    </td>
-  </tr>
-</table>
-
 ---
 
-## 📈 Actividad
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/icons/activity-onlight.svg"><img src="assets/icons/activity.svg" width="28" align="center" alt=""></picture>&nbsp;Actividad
 
 <p align="center">
   <img src="assets/generated/activity.svg" alt="Actividad en GitHub durante los últimos 12 meses" width="100%">
@@ -148,7 +92,7 @@ Ingeniero de software enfocado en **sistemas con IA**, **APIs backend** y **apps
   </picture>
 </p>
 
-### ⚡ Actividad reciente
+### <picture><source media="(prefers-color-scheme: light)" srcset="assets/icons/recent-onlight.svg"><img src="assets/icons/recent.svg" width="24" align="center" alt=""></picture>&nbsp;Actividad reciente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
