@@ -75,5 +75,5 @@
   <rect class="bar" style="animation-delay:0.600s" x="806.3" y="214.0" width="12.6" height="2.0" rx="2" fill="url(#accent)" opacity="0.35"/>
   <rect class="bar" style="animation-delay:0.612s" x="821.9" y="211.7" width="12.6" height="4.3" rx="2" fill="url(#accent)" opacity="0.38"/>
   <text x="24" y="236" class="label">Contribuciones por semana · últimos 12 meses</text>
-  <text x="836" y="236" class="label" text-anchor="end">Actualizado 2026-09-24</text>
+  <text x="836" y="236" class="label" text-anchor="end">Actualizado 2026-09-25</text>
 </svg>
